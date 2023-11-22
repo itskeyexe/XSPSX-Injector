@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F2B3FC3E2B0DD34600EF1530 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F2B3FC3D2B0DD34600EF1530 /* README.md */; };
+		F2B3FC402B0DD34D00EF1530 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = F2B3FC3F2B0DD34D00EF1530 /* LICENSE.txt */; };
 		F2D15CD52B0B2A03000D69D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D15CD42B0B2A03000D69D4 /* AppDelegate.swift */; };
 		F2D15CD72B0B2A03000D69D4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D15CD62B0B2A03000D69D4 /* SceneDelegate.swift */; };
 		F2D15CD92B0B2A03000D69D4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D15CD82B0B2A03000D69D4 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F2B3FC3D2B0DD34600EF1530 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F2B3FC3F2B0DD34D00EF1530 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		F2D15CD12B0B2A03000D69D4 /* XSPSX Injector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "XSPSX Injector.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2D15CD42B0B2A03000D69D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F2D15CD62B0B2A03000D69D4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				F2D15CDD2B0B2A06000D69D4 /* Assets.xcassets */,
 				F2D15CDF2B0B2A06000D69D4 /* LaunchScreen.storyboard */,
 				F2D15CE22B0B2A06000D69D4 /* Info.plist */,
+				F2B3FC3D2B0DD34600EF1530 /* README.md */,
+				F2B3FC3F2B0DD34D00EF1530 /* LICENSE.txt */,
 			);
 			path = "XSPSX Injector";
 			sourceTree = "<group>";
@@ -127,6 +133,8 @@
 			files = (
 				F2D15CE12B0B2A06000D69D4 /* LaunchScreen.storyboard in Resources */,
 				F2D15CDE2B0B2A06000D69D4 /* Assets.xcassets in Resources */,
+				F2B3FC3E2B0DD34600EF1530 /* README.md in Resources */,
+				F2B3FC402B0DD34D00EF1530 /* LICENSE.txt in Resources */,
 				F2D15CDC2B0B2A03000D69D4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
